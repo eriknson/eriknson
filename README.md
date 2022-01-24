@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Erik 👋
+
+Get in touch – [eriks@mail.se](mailto:eriks@mail.se "eriks@mail.se") 
 
 <!--
 **eriknson/eriknson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
