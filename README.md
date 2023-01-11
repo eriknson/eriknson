@@ -2,7 +2,7 @@
 
 Hi, I'm Erik. 
 
-I like to build and design user interfaces that people love to use. Based out of Sweden.
+I'm passionate about creating user interfaces that are enjoyable and easy to use. Always believing in simplicity and getting the details just right.
 
 <!--
 [Lorem ipsum &rarr;](https://metamask.io/) <br />
