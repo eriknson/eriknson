@@ -1,8 +1,6 @@
 👋 
 
-Hi, I'm Erik. 
-
-I'm passionate about creating user interfaces that are enjoyable to use. Always believing in simplicity and getting the details just right.
+Hi, I'm Erik. I work together with ambitious teams to create world-class user experiences.
 
 <!--
 [Lorem ipsum &rarr;](https://metamask.io/) <br />
